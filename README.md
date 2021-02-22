@@ -20,7 +20,7 @@ Atividade desenvolvida para a disciplina de Inteligência Computacional do [Cent
 O problema será indicar a melhor vaga para se estacionar um veículo tendo como base sua distância e vagas disponíveis. O intuito com este problema não seria estacionar o carro, mas sim um sistema que indicaria a melhor opção de vaga para um cliente que estiver entrando em um estacionamento.
 
 ## [Dataset](#dataset)
-Primeiramente se tem como ideia, a aquisição de uma imagem que seria o dataset (imagem que simularia uma vinda de um sistema de câmeras), onde ilustraria um estacionamento com vagas disponíveis, e montaria um array de vagas disponíveis. Também um outro array (criado para este projeto), que teria as distâncias do ponto de entrada no estacionamento para cada vaga.
+Primeiramente se tem como ideia, a aquisição de uma imagem (imagem que simularia uma vinda de um sistema de câmeras), onde ilustraria um estacionamento com vagas disponíveis, e montaria um array de vagas disponíveis. Também um outro array (criado para este projeto), que teria as distâncias do ponto de entrada no estacionamento para cada vaga.
 
 ## [Técnica](#tecnica)
 Para esta resolução, seria desenvolvido um sistema de busca em profundidade ou em largura (seguindo sugestão do professor), para obtenção dos resultados.
