@@ -3,7 +3,7 @@
 
 ---
 
-# Algoritmo genético aplicado a um sistema indicador de vagas de estacionamento
+# Busca em espaçoes de estados aplicado a um sistema indicador de vagas de estacionamento
 
 Atividade desenvolvida para a disciplina de Inteligência Computacional do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi)
 
