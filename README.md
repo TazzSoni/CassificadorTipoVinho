@@ -3,7 +3,7 @@
 
 ---
 
-# Busca em espaços de estados aplicado a um sistema indicador de vagas de estacionamento
+# Busca em espaços de estados aplicado a um sistema indicador de preços de imóveis
 
 Atividade desenvolvida para a disciplina de Inteligência Computacional do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi)
 
@@ -17,13 +17,14 @@ Atividade desenvolvida para a disciplina de Inteligência Computacional do [Cent
  - [**Rodrigo Souza Tassoni**](mailto:tazzsoni@gmail.com) - [TazzSoni](https://github.com/tazzsoni)
  
 ## [Problema](#problema)
-O problema será indicar a melhor vaga para se estacionar um veículo tendo como base sua distância e vagas disponíveis. O intuito com este problema não seria estacionar o carro, mas sim um sistema que indicaria a melhor opção de vaga para um cliente que estiver entrando em um estacionamento.
+O problema será definir o valor de um imovel. Baseado no seu aprendizado, o software deverá aplicar preço apropriado ao imóvel, tendo em vista sua descrição (itens como numero de banheiros, quartos, etc).
 
 ## [Dataset](#dataset)
-Primeiramente se tem como ideia, a aquisição de uma imagem (imagem que simularia uma vinda de um sistema de câmeras), onde ilustraria um estacionamento com vagas disponíveis, e montaria um array de vagas disponíveis. Também um outro array (criado para este projeto), que teria as distâncias do ponto de entrada no estacionamento para cada vaga.
+O data set utilizado é do estado da california, obtidos no censo de 1990, e está disponibilizado em:
+https://www.kaggle.com/camnugent/california-housing-prices
 
 ## [Técnica](#tecnica)
-Para esta resolução, seria desenvolvido um sistema de busca em profundidade ou em largura (seguindo sugestão do professor), para obtenção dos resultados.
+Para esta aplicação será usada a àrvore de decisão, e será desenvolvido em phyton, onde se encontra uma vasta biblioteca sobre o assunto.
 
 
 
