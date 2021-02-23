@@ -3,7 +3,7 @@
 
 ---
 
-# Busca em espaços de estados aplicado a um sistema indicador de preços de imóveis
+# Arvores de decisão aplicado a um sistema indicador de preços de imóveis
 
 Atividade desenvolvida para a disciplina de Inteligência Computacional do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi)
 
