@@ -83,7 +83,7 @@ ProjetoIa proj = new ProjetoIa();
 
         jLabel7.setText("Magnésio");
 
-        jLabel8.setText("Fenóis Inflavonóides");
+        jLabel8.setText("Fenóis não flavonóides");
 
         jLabel9.setText("Proantocianidinas");
 
