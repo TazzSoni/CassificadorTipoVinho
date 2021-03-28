@@ -3,7 +3,7 @@
 
 ---
 
-# Arvores de decisão aplicado a um sistema indicador de preços de imóveis
+# Classificador de tipo de cultivo de vinho
 
 Atividade desenvolvida para a disciplina de Inteligência Computacional do [Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC)](https://www.udesc.br/ceavi)
 
@@ -20,11 +20,10 @@ Atividade desenvolvida para a disciplina de Inteligência Computacional do [Cent
 O problema será definir o valor de um imovel. Baseado no seu aprendizado, o software deverá aplicar preço apropriado ao imóvel, tendo em vista sua descrição (itens como numero de banheiros, quartos, etc).
 
 ## [Dataset](#dataset)
-O data set utilizado é do estado da california, obtidos no censo de 1990, e está disponibilizado em:
-https://www.kaggle.com/camnugent/california-housing-prices
+Este dataset é o resultado de análises quimicas em vinhos fabricados na mesma região da Itália, porém derivados de três tipos distintos de cultivos. A análise determinou a quantidade de 13 substâncias encontradas em cada um dos três tipos de cultivos.
+https://www.kaggle.com/brynja/wineuci
 
 ## [Técnica](#tecnica)
-Para esta aplicação será usada a àrvore de decisão, e será desenvolvido em phyton, onde se encontra uma vasta biblioteca sobre o assunto.
-
+Para esta técnica como indicado em aula como uma ótmia opção para classificadores, foi utilizado a rede Multilayer Perceptron
 
 
