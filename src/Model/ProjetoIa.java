@@ -25,12 +25,12 @@ public class ProjetoIa {
         try {
             //Reading training arff file
 
-            FileReader trainreader = new FileReader("src/projetoia/Wine.arff");
+            FileReader trainreader = new FileReader("src/Model/Wine.arff");
             Instances train = new Instances(trainreader);
             train.setClassIndex(0);
 
             //Instance of NN
-            FileInputStream fI = new FileInputStream("C:\\Users\\Rodrigo\\Documents\\projeto\\Salvos_weka\\multilayer 4-429 80split.model");
+            FileInputStream fI = new FileInputStream("src/Model/MultilayerPercepton.model");
 
             MultilayerPerceptron mlp = (MultilayerPerceptron) (new ObjectInputStream(fI)).readObject();
             mlp.buildClassifier(train);
