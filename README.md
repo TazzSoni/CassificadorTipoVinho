@@ -26,41 +26,41 @@ Este dataset é o resultado de análises quimicas em vinhos fabricados na mesma 
 
 Como features temos: "Tipo" - número que diz uma classe de vinho específica (essa será a classe alvo);
 
-1.Teor Alcoólico 
-2.Ácido málico 
-3.Cinzas 
-4.Alcalinidade de cinzas 
-5.Magnésio 
-6.Fenóis totais 
-7.Flavonóides 
-8.Fenóis não flavonóides
-9.Proantocianidinas
-10.Intensidade da cor
-11.Matiz 
-12.OD280 / OD315 de vinhos diluídos 
-13.Prolina
+1.Teor Alcoólico;
+2.Ácido málico;
+3.Cinzas;
+4.Alcalinidade de cinzas;
+5.Magnésio;
+6.Fenóis totais;
+7.Flavonóides;
+8.Fenóis não flavonóide;
+9.Proantocianidinas;
+10.Intensidade da cor;
+11.Matiz;
+12.OD280 / OD315 de vinhos diluídos;
+13.Prolina;
 
 Número de instâncias de cada tipo de cultivo de vinho:
 
-Tipo 1 - 59 
-Tipo 2 - 71 
-Tipo 3 - 48
+Tipo 1 - 59;
+Tipo 2 - 71;
+Tipo 3 - 48;
 
 Em inglês o dataset fica com os seguintes nomes de features: 
-0.Type 
-1.Alcohol
-2.Malic acid
-3.Ash
-4.Alcalinity of ash
-5.Magnesium
-6.Total phenols
-7.Flavanoids
-8.Nonflavanoid phenols
-9.Proanthocyanins
-10.Color intensity
-11.Hue
-12.OD280/OD315 of diluted wines
-13.Proline 
+0.Type;
+1.Alcohol;
+2.Malic acid;
+3.Ash;
+4.Alcalinity of ash;
+5.Magnesium;
+6.Total phenols;
+7.Flavanoids;
+8.Nonflavanoid phenols;
+9.Proanthocyanins;
+10.Color intensity;
+11.Hue;
+12.OD280/OD315 of diluted wines;
+13.Proline;
 https://www.kaggle.com/brynja/wineuci
 
 ## [Técnica](#tecnica)
@@ -93,7 +93,7 @@ E obtivemos os seguintes resultados:
 
 Obteve-se uma leve melhora, porém não muito significativa. Realizando mais algumas rodadas de testes com diferentes construções de camadas ocultas e de saída, a configuração que mostrou um resultado melhor foi:
 
-HiddenLayers 5,2;
+* HiddenLayers 5,2;
 
 ![image](https://user-images.githubusercontent.com/45270751/112788886-411b3a00-9032-11eb-8c1b-3774e29a136f.png)
 
