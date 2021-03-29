@@ -26,8 +26,8 @@ Este dataset é o resultado de análises quimicas em vinhos fabricados na mesma 
 
 Como features temos: "Tipo" - número que diz uma classe de vinho específica (essa será a classe alvo);
 
-- 1.Teor Alcoólico;
-- 2.Ácido málico;
+1. Teor Alcoólico;
+2. Ácido málico;
 3.Cinzas;
 4.Alcalinidade de cinzas;
 5.Magnésio;
