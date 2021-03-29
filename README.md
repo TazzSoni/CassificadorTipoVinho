@@ -105,6 +105,7 @@ Um último passo que foi dado, foi aumentando o número de épocas com a finalid
 
 * HiddenLayers 5,2;
 * TrainingTime 1000;
+* 
 E obtivemos os seguintes resultados:
 
 ![image](https://user-images.githubusercontent.com/45270751/112788997-76278c80-9032-11eb-906e-6910e874a48c.png)
