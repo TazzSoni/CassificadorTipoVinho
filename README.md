@@ -21,11 +21,6 @@ Atividade desenvolvida para a disciplina de Inteligência Computacional do [Cent
 
 O problema será classificar corretamente o tipo de cultivo de determinado vinho, baseando-se em um conjunto de componentes químicos que compõem este vinho. 
 
-## [Técnica](#tecnica)
-
-Para esta técnica como indicado em aula como uma ótima opção para classificadores, foi utilizado a rede Multilayer Perceptron.
-Conforme mostrado em aula, foi utilizado o software WEKA, que se mostrou uma ferramenta muito útil, tanto para aprendizado, como para propriamente a aplicação a área de inteligência computacional. Com a facilidade do software, se foi testando modelos de aplicação de redes Multilayer Perceptron. Tendo em vista a classe alvo para o nosso classificador, o software permite, após carregar corretamente o dataset, que se selecione vários tipos de técnicas diferentes para execução.
-
 ## [Dataset](#dataset)
 Este dataset é o resultado de análises quimicas em vinhos fabricados na mesma região da Itália, porém derivados de três tipos distintos de cultivos. A análise determinou a quantidade de 13 substâncias encontradas em cada um dos três tipos de cultivos. 
 
@@ -71,7 +66,7 @@ https://www.kaggle.com/brynja/wineuci
 ## [Técnica](#tecnica)
 Para esta técnica como indicado em aula como uma ótmia opção para classificadores, foi utilizado a rede Multilayer Perceptron.
 
-Conforme mostrado em aula, foi utilizado o software WEKA, que se mostrou uma ferramenta muito útil, tanto para aprendizado, como para propriamente a aplicação a área de inteligência computacional. Com a facilidade do software, se foi testando modelos de aplicação de redes Multilayer Perceptron. Tendo em vista a classe alvo para o nosso classificador, o software permite, após carregar corretamente o dataset, que se selecione vários tipos de técnicas diferentes para execução.
+Conforme mostrado em aula, foi utilizado o software [WEKA](https://www.cs.waikato.ac.nz/ml/weka/), que se mostrou uma ferramenta muito útil, tanto para aprendizado, como para propriamente a aplicação a área de inteligência computacional. Com a facilidade do software, se foi testando modelos de aplicação de redes Multilayer Perceptron. Tendo em vista a classe alvo para o nosso classificador, o software permite, após carregar corretamente o dataset, que se selecione vários tipos de técnicas diferentes para execução.
 
 ## [Resultados](#resultados)
 Inicialmente foi rodado o teste com a rede Multilayer Perceptron, com seus parâmetros em default, usando o dataset inteiro como traing set. Como visto durante execuções, usando o traing set se tem uma taxa de erro mais baixa, e desta forma foi executado uma bateria de testes para encontar a melhor configuração para uma rede Multilayer Perceptron, e após isso será aplicados testes com divisão de conjunto de treio e testes, como também com validação cruzada.
