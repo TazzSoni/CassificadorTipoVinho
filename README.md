@@ -27,18 +27,19 @@ Este dataset é o resultado de análises quimicas em vinhos fabricados na mesma 
 Como features temos: "Tipo" - número que diz uma classe de vinho específica (essa será a classe alvo);
 
 1.Teor Alcoólico;
-2.Ácido málico;
-3.Cinzas;
-4.Alcalinidade de cinzas;
-5.Magnésio;
-6.Fenóis totais;
-7.Flavonóides;
-8.Fenóis não flavonóide;
-9.Proantocianidinas;
-10.Intensidade da cor;
-11.Matiz;
-12.OD280 / OD315 de vinhos diluídos;
-13.Prolina;
+2.
+3.Ácido málico;
+4.Cinzas;
+5.Alcalinidade de cinzas;
+6.Magnésio;
+7.Fenóis totais;
+8.Flavonóides;
+9.Fenóis não flavonóide;
+10.Proantocianidinas;
+11.Intensidade da cor;
+12.Matiz;
+13.OD280 / OD315 de vinhos diluídos;
+14.Prolina;
 
 Número de instâncias de cada tipo de cultivo de vinho:
 
