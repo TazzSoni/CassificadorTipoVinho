@@ -14,6 +14,7 @@ Atividade desenvolvida para a disciplina de Inteligência Computacional do [Cent
 * [Técnica](#tecnica)
 * [Resultados](#resultados)
 * [Instruções de Uso do Software](#instrucoes)
+* [Vídeo](#video)
 
 ## [Equipe](#equipe)
  - [**Rodrigo Souza Tassoni**](mailto:tazzsoni@gmail.com) - [TazzSoni](https://github.com/tazzsoni)
@@ -134,4 +135,4 @@ Estes resultados foram avaliados como satisfatórios para o modelo em si.
 ## [Instruções de Uso do Software](#instrucoes)
 Software de uso simples, seguindo no diretório da aplicação, deve-se usar um compilador Java (preferencialmente NetBeans), e importar o projeto. Após, execute o projeto e atribua valores das features e clicando em "Aplicar teste", a aplicação irá classificar seu vinho com qual o tipo de cultivo mais apropriado.
 
-Vídeo
+## [Vídeo](#video)
