@@ -61,7 +61,7 @@ Em inglês o dataset fica com os seguintes nomes de features:
 11. Hue;
 12. OD280/OD315 of diluted wines;
 13. Proline;
-https://www.kaggle.com/brynja/wineuci
+- https://www.kaggle.com/brynja/wineuci
 
 ## [Técnica](#tecnica)
 Para esta técnica como indicado em aula como uma ótmia opção para classificadores, foi utilizado a rede Multilayer Perceptron.
@@ -107,7 +107,7 @@ Um último passo que foi dado, foi aumentando o número de épocas com a finalid
 * TrainingTime 1000;
 E obtivemos os seguintes resultados:
 
-image![image](https://user-images.githubusercontent.com/45270751/112788997-76278c80-9032-11eb-906e-6910e874a48c.png)
+![image](https://user-images.githubusercontent.com/45270751/112788997-76278c80-9032-11eb-906e-6910e874a48c.png)
 
 Notou-se uma melhora significativa aumentando o número de épocas, e após mais algumas rodadas de testes, verificou-se que a medida que se aumenta o número de épocas nosso modelo diminui sua taxa de erro, porém em contra partida, aumenta o tempo de processamento. Por exemplo, com 1000 épocas tivemos um tempo de procesamento de 2.6 segundos, enquanto com 3000 épocas o tempo foi 5.17 segundos, ou seja, quase se dobrou o tempo de construção do modelo. Visando uma idéia que este modelo de classificação possa ser aplicado em outras realidades, optei manter ele em 3000 épocas pois sua taxa de erro foi muito abaixo.
 
