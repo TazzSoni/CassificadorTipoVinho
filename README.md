@@ -73,8 +73,8 @@ Inicialmente foi rodado o teste com a rede Multilayer Perceptron, com seus parâ
 
 Seguindo foram obtidos os seguintes resultados:
 
-HiddenLayers 'a' = (attribs + classes) / 2;
-TrainingTime 500;
+* HiddenLayers 'a' = (attribs + classes) / 2;
+* TrainingTime 500;
 
 ![image](https://user-images.githubusercontent.com/45270751/112788581-93a82680-9031-11eb-90af-14427c4f8fbc.png)
 
@@ -99,12 +99,12 @@ HiddenLayers 5,2;
 
 E obtivemos os seguintes resultados:
 
-image![image](https://user-images.githubusercontent.com/45270751/112788770-f4376380-9031-11eb-9246-25548e5ef74f.png)
+![image](https://user-images.githubusercontent.com/45270751/112788770-f4376380-9031-11eb-9246-25548e5ef74f.png)
 
 Um último passo que foi dado, foi aumentando o número de épocas com a finalidade de ver o comportamento da rede:
 
-HiddenLayers 5,2;
-TrainingTime 1000;
+* HiddenLayers 5,2;
+* TrainingTime 1000;
 E obtivemos os seguintes resultados:
 
 image![image](https://user-images.githubusercontent.com/45270751/112788997-76278c80-9032-11eb-906e-6910e874a48c.png)
