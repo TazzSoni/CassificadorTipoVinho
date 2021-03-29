@@ -18,9 +18,11 @@ Atividade desenvolvida para a disciplina de Inteligência Computacional do [Cent
  - [**Rodrigo Souza Tassoni**](mailto:tazzsoni@gmail.com) - [TazzSoni](https://github.com/tazzsoni)
  
 ## [Problema](#problema)
-O problema será definir o valor de um imovel. Baseado no seu aprendizado, o software deverá aplicar preço apropriado ao imóvel, tendo em vista sua descrição (itens como numero de banheiros, quartos, etc).
+
+O problema será classificar corretamente o tipo de cultivo de determinado vinho, baseando-se em um conjunto de componentes químicos que compõem este vinho. 
 
 ## [Técnica](#tecnica)
+
 Para esta técnica como indicado em aula como uma ótima opção para classificadores, foi utilizado a rede Multilayer Perceptron.
 Conforme mostrado em aula, foi utilizado o software WEKA, que se mostrou uma ferramenta muito útil, tanto para aprendizado, como para propriamente a aplicação a área de inteligência computacional. Com a facilidade do software, se foi testando modelos de aplicação de redes Multilayer Perceptron. Tendo em vista a classe alvo para o nosso classificador, o software permite, após carregar corretamente o dataset, que se selecione vários tipos de técnicas diferentes para execução.
 
