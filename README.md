@@ -136,3 +136,5 @@ Estes resultados foram avaliados como satisfatórios para o modelo em si.
 Software de uso simples, seguindo no diretório da aplicação, deve-se usar um compilador Java (preferencialmente NetBeans), e importar o projeto. Após, execute o projeto e atribua valores das features e clicando em "Aplicar teste", a aplicação irá classificar seu vinho com qual o tipo de cultivo mais apropriado.
 
 ## [Vídeo](#video)
+
+https://youtu.be/7i00HM8vaYI
