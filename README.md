@@ -42,9 +42,9 @@ Como features temos: "Tipo" - número que diz uma classe de vinho específica (e
 
 Número de instâncias de cada tipo de cultivo de vinho:
 
- Tipo 1 - 59;
- Tipo 2 - 71;
- Tipo 3 - 48;
+ - Tipo 1 - 59
+ - Tipo 2 - 71
+ - Tipo 3 - 48
 
 Em inglês o dataset fica com os seguintes nomes de features: 
 0. Type;
