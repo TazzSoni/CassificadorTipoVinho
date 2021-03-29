@@ -105,7 +105,7 @@ Um último passo que foi dado, foi aumentando o número de épocas com a finalid
 
 * HiddenLayers 5,2;
 * TrainingTime 1000;
-* 
+
 E obtivemos os seguintes resultados:
 
 ![image](https://user-images.githubusercontent.com/45270751/112788997-76278c80-9032-11eb-906e-6910e874a48c.png)
@@ -124,7 +124,7 @@ Então foi testado com um pencentual de divisão do dataset de 90% para treino e
 
 ![image](https://user-images.githubusercontent.com/45270751/112789061-99523c00-9032-11eb-976b-ae5d4cfde520.png)
 
-Devido a diferença significativa nesses ultimo teste, notou-se que com um conjunto de treino maior o modelo se mostrou com uma precisão maior. Com uma ferramenta de uso muito eficiente, o Weka permite que nosso modelo seja salvo e carregado diretamente em uma plaicação java. Para a etapa de testes e finalização da aplicação em java, usando java Swing, foi separado aleatoriamente 10% do dataset para testes reais, e foram obtidos os seguintes resultados:
+Devido a diferença significativa nesses ultimo teste, notou-se que com um conjunto de treino maior o modelo se mostrou com uma precisão maior. Com uma ferramenta de uso muito eficiente, o Weka permite que nosso modelo seja salvo e carregado diretamente em uma aplicação java. Para a etapa de testes e finalização da aplicação em java, usando java Swing, foi separado aleatoriamente 10% do dataset para testes reais, e foram obtidos os seguintes resultados:
 
 ![image](https://user-images.githubusercontent.com/45270751/112789066-9d7e5980-9032-11eb-9698-5da83f008e74.png)
 
