@@ -3,11 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/ProjetoIa/src/projetoia/ProjetoIa.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/ProjetoIa/src/Conversor/CSVToArff.java</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/ProjetoIa/src/projetoia/Wine.arff</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/ProjetoIa/src/projetoia/teste.arff</file>
-            <file>file:/C:/Users/Rodrigo/Documents/NetBeansProjects/ProjetoIa/src/View/Interface.java</file>
+            <file>file:/C:/Repositórios/CassificadorTipoVinho/src/View/Interface.java</file>
+            <file>file:/C:/Repositórios/CassificadorTipoVinho/src/Conversor/CSVToArff.java</file>
+            <file>file:/C:/Repositórios/CassificadorTipoVinho/src/Model/teste.arff</file>
+            <file>file:/C:/Repositórios/CassificadorTipoVinho/src/Model/ProjetoIa.java</file>
+            <file>file:/C:/Repositórios/CassificadorTipoVinho/src/Model/Wine.arff</file>
         </group>
     </open-files>
 </project-private>
